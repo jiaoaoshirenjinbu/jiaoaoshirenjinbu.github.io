@@ -17,47 +17,27 @@ This is a university student here, and I'm glad to introduce myself.
   </tr>
 </table>
 
-
-###Biography
-Now I'm a 21 years old boy, born in Jiangxi Province. As a junior in Shijiazhuang Tiedao University, I learned IT technology for three years.In the first year in school, I joined lots of clubs such as Student Union of STD and new-media club named Yiqingnian. Next year,I participated in the National Contest of Maths Models and won the prize.Resently,I participated in the National Contest of English Capbility.
-
-###
+### Personal Inf
+I was born in Jiangxi Province, where I spend my whore time living and studying there. In 2018, I graduated form NingDu Middle School of Jiangxi and got into my college now. In the college, I obtained not only the fundamental knowledge of my specialty, but also many friends in life. Generally speaking, I am a studious student, especially when doing the thing I am interested in, I will try my best to finish it no matter how difficult it is. When I was a sophomore, I thought that English would be significant to my further study, so I learned it very hard. I am a person with great perseverance, because I always think that the achievements the Great men attain are from their diligence and perseverance. 
 
 
+### Biography
+As a junior in Shijiazhuang Tiedao University, I learned IT technology for three years.In the first year in school, I joined lots of clubs such as Student Union of STD and new-media club named Yiqingnian. Next year,I participated in the National Contest of Maths Models and won the prize.Resently,I participated in the National Contest of English Capbility.
+
+### My Project
+<table border="0">
+  <tr>
+    <td width="100%">
+      <img src="/IMG_7358.JPG" width="100%">
+    </td>
+  </tr>
+</table>
+### My Blog
 
 
 
 
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiaoaoshirenjinbu/jiaoaoshirenjinbu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
