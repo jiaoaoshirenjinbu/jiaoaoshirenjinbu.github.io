@@ -12,7 +12,7 @@ This is a university student here, and I'm glad to introduce myself.
       <p><b>Address: No. 17,North 2nd Ring Road (East),Shijiazhuang City,Hebei Province,China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="/IMG_7358.JPG" width="100%">
     </td>
   </tr>
 </table>
