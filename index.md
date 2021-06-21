@@ -5,21 +5,21 @@ This is a university student here, and I'm glad to introduce myself.
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>jiaoaoshirenjinbu</h1>
+      <p><b>Bachelor</b></p>
+      <p><b>Shijiazhuang Tiedao University  College of Information Sciences and Technology</b></p>
+      <p><b>E-mail:1518786410@qq.com</b></p>
+      <p><b>Address: No. 17,North 2nd Ring Road (East),Shijiazhuang City,Hebei Province,China</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">
     </td>
   </tr>
 </table>
 
 
-###Basic Information
-
+###Biography
+Now I'm a 21 years old boy, born in Jiangxi Province. As a junior in Shijiazhuang Tiedao University, I learned IT technology for three years.In the first year in school, I joined lots of clubs such as Student Union of STD and new-media club named Yiqingnian. Next year,I participated in the National Contest of Maths Models and won the prize.Resently,I participated in the National Contest of English Capbility.
 
 ###
 
