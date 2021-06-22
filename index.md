@@ -24,17 +24,17 @@ I was born in Jiangxi Province, where I spend my whore time living and studying 
 ### Biography
 As a junior in Shijiazhuang Tiedao University, I learned IT technology for three years.In the first year in school, I joined lots of clubs such as Student Union of STD and new-media club named Yiqingnian. Next year,I participated in the National Contest of Maths Models and won the prize.Resently,I participated in the National Contest of English Capbility.
 
-### My Project
+### My Project 
+
+### My Blog
+[cnblog][https://www.cnblogs.com/jiaoaoshirenjinbu/default.html?page=1]
 <table border="0">
   <tr>
     <td width="100%">
-      <img src="/IMG_7358.JPG" width="100%">
+      <img src="123123.png" width="100%">
     </td>
   </tr>
 </table>
-### My Blog
-
-
 
 
 
