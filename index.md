@@ -36,7 +36,12 @@ As a junior in Shijiazhuang Tiedao University, I learned IT technology for three
   </tr>
 </table>
 
+### Social Activities
 
+- Yangzhou Jianzhen International Half Marathon, Outstanding Volunteer
+- Responsible for the recruitment of volunteers in mainland China for The 2019 World Summer Special Olympic Games, Group Leader
+- Volunteering for The 19th Sports Games of Jiangsu, as an assistant referees of the youth team of basketball games
+- International Volunter Job in AIESEC in NJU, Mainland of China's Incoming Global Volunteer program Explore China7.0
 
 
 
