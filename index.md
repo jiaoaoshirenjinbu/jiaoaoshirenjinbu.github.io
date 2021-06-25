@@ -6,13 +6,13 @@ This is a university student here, and I'm glad to introduce myself.
   <tr>
     <td width="75%">
       <h1>jiaoaoshirenjinbu</h1>
-      <p><b>- Bachelor</b></p>
+      <p><b>- Bachelor</b></p>Cancel changes
       <p><b>- Shijiazhuang Tiedao University  College of Information Sciences and Technology</b></p>
       <p><b>- E-mail:1518786410@qq.com</b></p>
       <p><b>- Address: No. 17,North 2nd Ring Road (East),Shijiazhuang City,Hebei Province,China</b></p>
     </td>
     <td width="25%">
-      <img src="/img_6839.jpg" width="100%">
+      <img src="/img_6839.png" width="100%">
     </td>
   </tr>
 </table>
